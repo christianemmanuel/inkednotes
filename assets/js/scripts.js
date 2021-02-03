@@ -38,17 +38,3 @@ __c('.toggle__categories').addEventListener('click', function(e) {
 
   e.preventDefault();
 });
-
-var blurimg = document.getElementById('img');
-var bigImg = document.createElement('img');
-
-bigImg.onload = function() {
-  blurimg.src = this.src;
-  blurimg.className = 'noblur';
-}
-
-setTimeout(() => {
-  bigImg.src = '../../assets/images/new_normal-min.jpg'
-}, 50);
-
-console.log(bigImg)

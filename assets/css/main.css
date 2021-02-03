@@ -422,11 +422,11 @@ section {
         background-size: 10px; }
       .pagination .pagionation__list a.prev {
         padding-left: 15px;
-        background-image: url(/assets/images/arrow-left.svg);
+        background-image: url(../../assets/images/arrow-left.svg);
         background-position: center left; }
       .pagination .pagionation__list a.next {
         padding-right: 15px;
-        background-image: url(/assets/images/arrow-right.svg);
+        background-image: url(../../assets/images/arrow-right.svg);
         background-position: center right; }
       .pagination .pagionation__list a.current {
         background-color: #B0B0B0;
