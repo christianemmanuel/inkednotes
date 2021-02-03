@@ -30,7 +30,7 @@
       li.navmenu__item {
         position: relative;
         &.navmenu__item {
-          background-image: url(/assets/images/Icon-metro-menu.svg);
+          background-image: url(../../assets/images/Icon-metro-menu.svg);
           background-repeat: no-repeat;
           background-position: left center;
           a {
@@ -68,25 +68,25 @@
   background-repeat: no-repeat;
   background-position: center;
     &.icon__twitter {
-      background-image: url(/assets/images/Icon-awesome-twitter.svg);
+      background-image: url(../../assets/images/Icon-awesome-twitter.svg);
       width: 1.09rem;
       height: 0.9rem;
       background-size: 1.09rem;
     }
     &.icon__facebook {
-      background-image: url(/assets/images/Icon-awesome-facebook-f.svg);
+      background-image: url(../../assets/images/Icon-awesome-facebook-f.svg);
       width: 0.7rem;
       height: 1.1rem;
       background-size: 0.54rem;
     }
     &.icon__rss {
-      background-image: url(/assets/images/Icon-awesome-rss.svg);
+      background-image: url(../../assets/images/Icon-awesome-rss.svg);
       width: 0.899375rem;
       height: 0.899375rem;
       background-size: 0.88rem;
     }
     &.icon__search {
-      background-image: url(/assets/images/SEARCH_ICON.svg);
+      background-image: url(../../assets/images/SEARCH_ICON.svg);
       width: 1.070625rem;
       height: 1.070625rem;
       background-size: 1.070625rem;
@@ -117,7 +117,7 @@
       border-left: 1px solid #DFDFDF;
       &.inkednotes__search--open {
         .icon.icon__search {
-          background-image: url(/assets/images/Icon-ionic-ios-close.svg);
+          background-image: url(../../assets/images/Icon-ionic-ios-close.svg);
           background-size: 1.03rem;
         }
       }

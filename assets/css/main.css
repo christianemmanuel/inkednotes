@@ -195,7 +195,7 @@ section {
     .main_nav .navigation__container ul.navmenu__list li.navmenu__item {
       position: relative; }
       .main_nav .navigation__container ul.navmenu__list li.navmenu__item.navmenu__item {
-        background-image: url(/assets/images/Icon-metro-menu.svg);
+        background-image: url(../../assets/images/Icon-metro-menu.svg);
         background-repeat: no-repeat;
         background-position: left center; }
         .main_nav .navigation__container ul.navmenu__list li.navmenu__item.navmenu__item a {
@@ -222,22 +222,22 @@ section {
   background-repeat: no-repeat;
   background-position: center; }
   .icon.icon__twitter {
-    background-image: url(/assets/images/Icon-awesome-twitter.svg);
+    background-image: url(../../assets/images/Icon-awesome-twitter.svg);
     width: 1.09rem;
     height: 0.9rem;
     background-size: 1.09rem; }
   .icon.icon__facebook {
-    background-image: url(/assets/images/Icon-awesome-facebook-f.svg);
+    background-image: url(../../assets/images/Icon-awesome-facebook-f.svg);
     width: 0.7rem;
     height: 1.1rem;
     background-size: 0.54rem; }
   .icon.icon__rss {
-    background-image: url(/assets/images/Icon-awesome-rss.svg);
+    background-image: url(../../assets/images/Icon-awesome-rss.svg);
     width: 0.899375rem;
     height: 0.899375rem;
     background-size: 0.88rem; }
   .icon.icon__search {
-    background-image: url(/assets/images/SEARCH_ICON.svg);
+    background-image: url(../../assets/images/SEARCH_ICON.svg);
     width: 1.070625rem;
     height: 1.070625rem;
     background-size: 1.070625rem;
@@ -261,7 +261,7 @@ section {
     margin-left: 18px;
     border-left: 1px solid #DFDFDF; }
     .social__media ul .inkednotes__search.inkednotes__search--open .icon.icon__search {
-      background-image: url(/assets/images/Icon-ionic-ios-close.svg);
+      background-image: url(../../assets/images/Icon-ionic-ios-close.svg);
       background-size: 1.03rem; }
 
 .search {
@@ -301,7 +301,7 @@ section {
       .search .container .search__input ::placeholder {
         color: #ffffff; }
     .search .container .btn__search {
-      background-image: url(/assets/images/SEARCH_ICON-white.svg);
+      background-image: url(../../assets/images/SEARCH_ICON-white.svg);
       background-repeat: no-repeat;
       background-position: center;
       background-size: 1.1555rem;
@@ -454,7 +454,7 @@ section {
       bottom: -30px;
       width: 5.58625rem;
       height: 4.609375rem;
-      background-image: url(/assets/images/combined-shape-1.svg);
+      background-image: url(../../assets/images/combined-shape-1.svg);
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
@@ -497,7 +497,7 @@ section {
       width: 69px;
       overflow: hidden;
       text-indent: -9999px;
-      background-image: url(/assets/images/ionic-md-send.svg);
+      background-image: url(../../assets/images/ionic-md-send.svg);
       background-size: 1.261875rem;
       background-position: center;
       background-repeat: no-repeat;
