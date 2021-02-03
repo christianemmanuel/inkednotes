@@ -48,7 +48,7 @@ bigImg.onload = function() {
 }
 
 setTimeout(() => {
-  bigImg.src = '/assets/images/new_normal-min.jpg'
+  bigImg.src = '../../assets/images/new_normal-min.jpg'
 }, 50);
 
 console.log(bigImg)
